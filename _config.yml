@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: Zormin # the main title
 
-tagline: Electronic Engineering [ AI Hardware Design, Vison Transformer, LLM, Quantization] # it will display as the sub-title
+tagline: Electronic Engineering <br>AI Hardware Design<br>Vison Transformer<br>LLM<br>Quantization # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
